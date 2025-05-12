@@ -1,6 +1,6 @@
 # API Weather Tester
 
-Este proyecto automatiza pruebas sobre una API de clima usando Python, PyTest y Visual Studio Code. Simula un escenario real donde un equipo de QA automatiza validaciones de una API pública que entrega datos meteorológicos.
+This project automates tests over a weather API using Python, PyTest and Visual Studio Code. It simulates a rea lscenario where a QA Tester automates public API validations that delivers meteorological data.
 
 ---
 
